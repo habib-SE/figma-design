@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/habib-SE/figma-design/static/css/main.452652cf.css",
+    "main.js": "/habib-SE/figma-design/static/js/main.ad8dd8c5.js",
+    "index.html": "/habib-SE/figma-design/index.html",
+    "main.452652cf.css.map": "/habib-SE/figma-design/static/css/main.452652cf.css.map",
+    "main.ad8dd8c5.js.map": "/habib-SE/figma-design/static/js/main.ad8dd8c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452652cf.css",
+    "static/js/main.ad8dd8c5.js"
+  ]
+}
